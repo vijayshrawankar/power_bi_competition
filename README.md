@@ -7,4 +7,4 @@ The dashboard focuses on transforming raw data into meaningful visual insights u
 🛠 Tools & Technologies
 Microsoft Power BI
 Data Cleaning & Transformation
-DAX Measures
+DAX Measures <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3e8e4bdb-dd8e-49fa-ad7c-32360b32fd75" />
